@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto Slab', serif;
+    
 }
 h1{
     font-size: 50px;
@@ -19,11 +20,30 @@ p{
 .width img {
       width: 60%;
 }
-.Link_Button{
+.Link_Button_1{
     text-decoration:none;
     background-image: -moz-linear-gradient(lightSalmon,Tomato);
-    padding:5px 10px;
+    padding:10px 15px;
     border-radius: 5px;
     color:black;
+    margin-bottom: 5px;
+
+}
+.width_1{
+    width: 40%;
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%;
+}
+.width_1 img {
+      width: 60%;
+}
+.Link_Button_2{
+    text-decoration:none;
+    background-image: -moz-linear-gradient(lightSalmon,Tomato);
+    padding:10px 15px;
+    border-radius: 5px;
+    color:black;
+    margin-bottom: 5px;
 
 }
