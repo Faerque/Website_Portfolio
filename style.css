@@ -47,3 +47,46 @@ p{
     margin-bottom: 5px;
 
 }
+.Center_banner{
+   
+}
+#Center{
+    text-align: center;
+}
+.Name_1{
+    color: blue;
+}
+.card{
+    height: 30%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    float: left;
+    margin: 20px;
+    display: block;
+    padding: 10px;
+    justify-content: center;
+    flex-direction: row;
+}
+}
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.contain{
+    padding:left;
+    text-align: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    margin:10px;
+}
+.last{
+    background-image: url(shapes/Group_33094_1.png);
+    padding: 60px;
+    text-align: left;
+
+    font-size: 30px;
+    display:flex;
+
+}
