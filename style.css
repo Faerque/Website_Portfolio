@@ -1,3 +1,29 @@
 body{
     font-family: 'Roboto Slab', serif;
 }
+h1{
+    font-size: 50px;
+}
+p{
+    color:darkblue;
+}
+.Name{
+    color:darkorange;
+}
+.width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.width img {
+      width: 60%;
+}
+.Link_Button{
+    text-decoration:none;
+    background-image: -moz-linear-gradient(lightSalmon,Tomato);
+    padding:5px 10px;
+    border-radius: 5px;
+    color:black;
+
+}
