@@ -8,6 +8,9 @@ h1{
 p{
     color:darkblue;
 }
+h3{
+    color: rgb(0, 0, 0);
+}
 .Name{
     color:darkorange;
 }
@@ -47,6 +50,12 @@ p{
     margin-bottom: 5px;
 
 }
+.Center_banner{
+    padding: 60px;
+    background: #e2e4e3;
+    text-align: center;
+
+}
 
 #Center{
     text-align: center;
@@ -79,12 +88,26 @@ p{
     justify-content: center;
     margin:10px;
 }
-.last{
+.Bg_img{
     background-image: url(shapes/Group_33094_1.png);
-    padding: 60px;
-    text-align: left;
-
-    font-size: 30px;
-    display:flex;
-
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 40%;
 }
+.last{
+    padding: 60px;
+    text-align:left;
+    font-size:30px;
+    display:flex;
+    
+}
+.Link_Button_3{
+    text-decoration:none;
+    background-image: -moz-linear-gradient(lightSalmon,Tomato);
+    padding:10px 15px 10px;
+    border-radius: 5px;
+    color:rgb(255, 255, 255);
+    margin-bottom: 10px;
+    }
